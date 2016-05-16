@@ -1,0 +1,297 @@
+@charset "utf-8";
+/* CSS Document */
+/* open-sans start */
+.paragraphWhite { font-family: 'Open Sans'; font-weight: 300; color: #402312; font-size: 1.5em; line-height: 1.2; text-transform: capitalize; text-align: left; 
+}
+.box-half h1{ font-family: 'Open Sans'; font-weight: 200; font-size: 2.5em; color: #402312; text-align: left; 
+}
+
+/* open-sans end */
+.modal-body {  background-image: url(../images/bgred.png); background-color: #B31F24;  }
+.black-paragraph {
+font-family: 'Open Sans';
+font-weight: 200;
+color: #402312;
+font-size: 1.9em;
+line-height: 1.2;
+text-transform: capitalize;
+}
+.paragraphSmall {
+font-family: 'Open Sans';
+font-weight: 200;
+font-size: 1.3em;
+color: #FFF;
+}
+.paragraphTitle {
+font-family: 'Open Sans';
+font-weight: 200;
+font-size: 2.2em;
+color: #FFF;
+}
+.MainTitle { font-family: 'Open Sans'; font-weight: 200; font-size: 1.5em; color: #402312; 
+}
+
+.teamtitle h1 { font-family: 'Open Sans'; 
+font-weight: 200; 
+font-size: 4em; 
+color: #ffffff; 
+text-align: left; 
+}
+.blackTitle { font-family: 'Open Sans'; font-weight: 200; font-size: 2em; color: #402312; line-height: 1em; padding-top: 1em; padding-bottom: 1em; 
+}
+.paragraph {
+font-family: 'Open Sans';
+font-weight: 300;
+color: #402312;
+font-size: 1em;
+line-height: 1.2;
+text-transform: capitalize;
+}
+.h1 { 
+font-family: 'Open Sans';
+font-weight: 200; 
+font-size: 3.5em; 
+color: #402312; 
+text-align: left;
+}
+.col-md-5 {} h1 {
+font-family: "proxima-nova", sans-serif;
+font-size: 4em;
+}
+.navbar-brand { padding-top: 5px; 
+}
+#team {
+background-color: #24313A;
+padding-top: 5%;
+}
+.main-nav { background-image: url(../images/bgred.png); background-color: #B31F24; }
+#services { background-image: url(../images/bgmain.png); background-color: #F8F0DE; }
+#portfolio {
+background-image: url(../images/bgmain.png); background-color: #F8F0DE;
+padding-top: 5%;
+}
+#idea {
+background-image: url(../images/bgmain.png); background-color: #F8F0DE;
+padding-top: 5%;
+padding-bottom: 5%;
+}
+#MobileWebsite {
+background-image: url(../images/bgmain.png); background-color: #F8F0DE;
+padding-top: 5%;
+padding-bottom: 5%;
+}
+#WhyChooseWebpro {
+background-image: url(../images/bgmain.png); background-color: #F8F0DE;
+padding-top: 5%;
+padding-bottom: 5%;
+}
+#WebsiteDesign {
+background-image: url(../images/bgmain.png); background-color: #F8F0DE;
+padding-top: 10%;
+padding-bottom: 5%;
+}
+#ResponsiveDesign {
+background-image: url(../images/bgmain.png); background-color: #F8F0DE;
+padding-top: 5%;
+padding-bottom: 5%;
+}
+#HowItOperateResponsive {
+background-image: url(../images/bgmain.png); background-color: #F8F0DE;
+padding-top: 5%;
+padding-bottom: 5%;
+}
+#LogoDesign {
+background-image: url(../images/bgmain.png); background-color: #F8F0DE;
+padding-top: 5%;
+padding-bottom: 5%;
+}
+#WhyBranding {
+background-image: url(../images/bgmain.png); background-color: #F8F0DE;
+padding-top: 5%;
+padding-bottom: 5%;
+}
+@media (max-width: 1920px){
+.navbar-brand {
+margin:5px;
+width:80%; 
+}
+#services { 
+padding-top: 10%;
+}
+#portfolio {
+padding-top: 10%;
+}
+#idea {
+padding-top: 10%;
+}
+#MobileWebsite {
+padding-top: 10%;
+}
+#WhyChooseWebpro {
+padding-top: 10%;
+}
+#WebsiteDesign {
+padding-top: 10%;
+}
+#ResponsiveDesign {
+padding-top: 10%;
+}
+#HowItOperateResponsive {
+padding-top: 10%;
+}
+#LogoDesign {
+padding-top: 10%;
+}
+#WhyBranding {
+padding-top: 10%;
+}
+#team { 
+padding-top: 10%;
+}
+}
+@media (max-width: 1280px){
+.navbar-brand {
+margin:5px;
+width:80%; 
+}
+#services { 
+padding-top: 30%;
+}
+#portfolio {
+padding-top: 20%;
+}
+#idea {
+padding-top: 30%;
+}
+#MobileWebsite {
+padding-top: 30%;
+}
+#WhyChooseWebpro {
+padding-top: 30%;
+}
+#WebsiteDesign {
+padding-top: 20%;
+}
+#ResponsiveDesign {
+padding-top: 10%;
+}
+#HowItOperateResponsive {
+padding-top: 10%;
+}
+#LogoDesign {
+padding-top: 20%;
+}
+#WhyBranding {
+padding-top: 10%;
+}
+#team { 
+padding-top: 10%;
+}
+}
+@media (max-width: 800px){
+.navbar-brand {
+margin:5px;
+width:80%; 
+}
+.col-sm-2 { width: 40%; float: left; margin-top: 10px; margin-right: 10px; margin-bottom: 10px; margin-left: 45px; }
+#services { 
+padding-top: 30%;
+}
+#portfolio {
+padding-top: 30%;
+}
+#idea {
+padding-top: 15%;
+}
+#MobileWebsite {
+padding-top: 15%;
+}
+#WhyChooseWebpro {
+padding-top: 15%;
+}
+#WebsiteDesign {
+padding-top: 30%;
+}
+/*//branding 768x1024*/
+#LogoDesign {
+padding-top: 30%;
+}
+#ResponsiveDesign {
+padding-top: 15%;
+}
+#HowItOperateResponsive {
+padding-top: 15%;
+}
+#WhyBranding {
+padding-top: 15%;
+}
+}
+@media (max-width: 667px){/*//iphone6 landscape*/
+.navbar-brand {
+margin:5px;
+width:18%; 
+}
+.col-sm-2 { width: 40%; float: left; margin-top: 10px; margin-right: 10px; margin-bottom: 10px; margin-left: 45px; }
+}
+@media (max-width: 480px){
+.navbar-brand {
+margin:5px;
+width:25%; 
+}
+.col-sm-2 { width: 40%; float: left; margin-top: 10px; margin-right: 10px; margin-bottom: 10px; margin-left: 25px; }
+}
+@media (max-width: 375px){ /*//iphone6 portrait*/
+.navbar-brand {
+margin:5px;
+width:33%; 
+}
+#services { 
+padding-top: 40%;
+}
+#portfolio {
+padding-top: 30%;
+}
+#idea {
+padding-top: 25%;
+}
+#MobileWebsite {
+padding-top: 25%;
+}
+#WhyChooseWebpro {
+padding-top: 25%;
+}
+#WebsiteDesign {
+padding-top: 35%;
+}
+#ResponsiveDesign {
+padding-top: 30%;
+}
+#HowItOperateResponsive {
+padding-top: 30%;
+}
+#LogoDesign {
+padding-top: 40%;
+}
+#WhyBranding {
+padding-top: 30%;
+}
+#team { 
+padding-top: 18%;
+}
+.col-sm-2 { width: 40%; float: left; margin-top: 10px; margin-right: 10px; margin-bottom: 10px; margin-left: 20px; }
+.paragraphWhite{	
+font-family: 'Open Sans';
+font-weight: 300;
+color: #402312;
+font-size: 1.2em;
+line-height: 1.2;
+text-transform: capitalize;
+}
+}
+@media (max-width: 320px){
+.navbar-brand {
+margin:5px;
+width:35%; 
+}
+}
+.member-info { font-family: Verdana, Geneva, sans-serif; font-size: 12px; font-weight: normal; color: #FFFFFF; }
